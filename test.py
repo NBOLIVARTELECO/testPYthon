@@ -12,6 +12,11 @@ Nota = float(input("Escriba nota en forma numerica entre 0 5"))
 
 if(Nota >= 4.5 ):
     print("Esta nota es meritoria")
+#Mudulo %, AND , OR 
+val = 10
+
+if(val%2 == 0):
+    print("Es un numero par")
 
 
 
